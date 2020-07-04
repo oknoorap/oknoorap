@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi 👋 I am Ribhararnus Pracutian
+
+Just a regullar javascript developer. Indie maker on the weekend, working on [@relanding](https://github.com/relanding).  
+I ❤️ pixel arts, though I don't have any skill on art.
+
+You can drop me a message on twitter - [🐦 @oknoorap](https://twitter.com/oknoorap).
 
 <!--
 **oknoorap/oknoorap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
