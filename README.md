@@ -8,8 +8,8 @@ You can drop me a message via twitter - [🐦 @oknoorap](https://twitter.com/okn
 
 | Project Name | Repository URL | Website | Technology / Language |
 |--|--|--|--|
-| Jurassic Framework | https://github.com/oknoorap/jurassic | - | Deno |
-| TVlix | Coming Soon | Coming Soon | - |
+| **Jurassic**<br/>A Straightforward REST API Framework for Deno | https://github.com/oknoorap/jurassic | - | Deno |
+| **TVlix**<br/>Online TV Streaming Watch Party | https://github.com/oknoorap/tvlix | https://tvlix.online | NextJS |
 | Komento | Coming Soon | Coming Soon | - |
 
 #### Scripting / Programming Language
