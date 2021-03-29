@@ -1,8 +1,9 @@
 ## Hi 👋 I am Ribhararnus Pracutian
 
-A hobbyist developer. 🦄 Indie maker at the weekend. I'm pixel arts lover ❤️, though I don't have any skill on art. A Cryptocurrency holder and Blockchain enthusiast.
+A hobbyist developer. 🦄 Indie maker at the weekend. I'm pixel arts lover ❤️, though I don't have any skill on art.  
+A Cryptocurrency holder and Blockchain enthusiast.
 
-You can drop me a message via twitter - [🐦 @oknoorap](https://twitter.com/oknoorap), or via email oknoorap&lt;at&gt;gmail.com
+You can drop me a message via twitter - [🐦 @oknoorap](https://twitter.com/oknoorap), or via email [✉️ oknoorap&lt;at&gt;gmail.com](mailto:oknoorap@gmail.com)
 
 ### Portfolio / Projects
 
@@ -13,26 +14,35 @@ You can drop me a message via twitter - [🐦 @oknoorap](https://twitter.com/okn
 | **Komento**<br/>Decentralized Comment Hosting Powered by IPFS | Coming Soon | Coming Soon | NextJS |
 | **HNChan**<br/>Hacker News in 4chan style | Coming Soon | Coming Soon | NextJS |
 
-#### Scripting / Programming Language
+### Blog Posts
+Coming soon
+
+#### 👨🏽‍💻 Scripting / Programming Language
 - Javascript or TypeScript
-- Solidity
+- Ethereum's Solidity
 - Go
 - Lua
 - PHP
 
-#### My Stacks
-- Frontend:
+#### 📚 My Stacks
+- 🖥 Frontend:
   - VanillaJS
   - NextJS (React)
   - GraphQL
-- Backend / Database:
+
+- 𝌖 Backend / Database:
   - Firebase
   - Hasura (PostgreSQL)
   - Fastify
   - OrbitDB
 
-#### Entertainments
+- 🟦 DevOps
+  - Docker
+  - K8s
+
+#### 📺 Entertainments
+- ♘ Playing Chess.
 - 📱 Watch Netflix.
 - 📺 Love seasonal Anime.
-- 📚 Read Manga / Manwha.
+- 📚 Read Manga / Manhwa.
 - 📚 Read Novel (sometimes).
