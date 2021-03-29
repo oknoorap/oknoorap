@@ -11,7 +11,7 @@ You can drop me a message via twitter - [🐦 @oknoorap](https://twitter.com/okn
 | **Jurassic**<br/>A Straightforward REST API Framework for Deno | https://github.com/oknoorap/jurassic | - | Deno |
 | **TVlix**<br/>Online TV Streaming Watch Party | https://github.com/oknoorap/tvlix | https://tvlix.online | NextJS |
 | **Komento**<br/>Decentralized Comment Hosting Powered by IPFS | Coming Soon | Coming Soon | NextJS |
-| **HNChan**<br/>Decentralized Comment Hosting Powered by IPFS | Coming Soon | Coming Soon | NextJS |
+| **HNChan**<br/>Hacker News in 4chan style | Coming Soon | Coming Soon | NextJS |
 
 #### Scripting / Programming Language
 - Javascript or TypeScript
