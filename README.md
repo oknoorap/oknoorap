@@ -12,7 +12,7 @@ You can drop me a message via twitter - [🐦 @oknoorap](https://twitter.com/okn
 | **Jurassic**<br/>A Straightforward REST API Framework for Deno | https://github.com/oknoorap/jurassic | - | Deno |
 | **TVlix**<br/>Online TV Streaming Watch Party | https://github.com/oknoorap/tvlix | https://tvlix.online | NextJS |
 | **Komento**<br/>Decentralized Comment Hosting Powered by IPFS | https://github.com/oknoorap/komento | https://komento.host | NextJS |
-| **HNChan**<br/>Hacker News in 4chan style | Coming Soon | Coming Soon | NextJS |
+| **HNChan**<br/>Hacker News in 4chan style | https://github.com/oknoorap/hnchan | Coming Soon | NextJS |
 | **Masa**<br />Time Trading Productivity Tool | Coming Soon | Coming Soon | NextJS |
 | **MetaNode**<br/>MetaTrader 5 and Node / Deno Proxy | Coming Soon | Cooming Soon | MQL5, NodeJS, Deno |
 | **Tree Of Life**<br />Labyrinth RPG Platformer Game | Coming Soon | Coming Soon | Typescript |
