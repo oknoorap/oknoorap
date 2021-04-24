@@ -13,7 +13,7 @@ You can drop me a message via twitter - [🐦 @oknoorap](https://twitter.com/okn
 | **TVlix**<br/>Online TV Streaming Watch Party | https://github.com/oknoorap/tvlix | https://tvlix.online | NextJS |
 | **Komento**<br/>Decentralized Comment Hosting Powered by IPFS | https://github.com/oknoorap/komento | https://komento.host | NextJS |
 | **HNChan**<br/>Hacker News in 4chan style | https://github.com/oknoorap/hnchan | https://hnchan.netlify.app | NextJS |
-| **Masa**<br />Time Trading Productivity Tool | Coming Soon | Coming Soon | NextJS |
+| **Masa**<br />Time Trading Productivity Tool | https://github.com/oknoorap/masa | Coming Soon | NextJS |
 | **MetaNode**<br/>MetaTrader 5 and Node / Deno Proxy | Coming Soon | - | MQL5, NodeJS, Deno |
 | **Tree Of Life**<br />Labyrinth RPG Platformer Game | Coming Soon | Coming Soon | Typescript |
 
