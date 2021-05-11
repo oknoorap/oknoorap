@@ -1,0 +1,75 @@
+body {
+  font-family: "Roboto", sans-serif;
+  padding: 1.125rem 1.25rem;
+}
+
+a {
+  color: black;
+  text-decoration: underline;
+}
+
+h1 {
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  margin: 0;
+}
+
+h2 {
+  color: lightseagreen;
+  margin: 0;
+  padding-bottom: 5px;
+  line-height: 1;
+  border-bottom: 1px solid lightseagreen;
+}
+
+header {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  margin-bottom: 1.75rem;
+}
+
+.contact {
+  display: flex;
+}
+
+.contact > *:not(:last-of-type) {
+  margin-right: 5px;
+}
+
+section {
+  margin: 1.15rem 0 2rem;
+}
+
+section li > div {
+  display: flex;
+}
+
+section .key {
+  min-width: 120px;
+}
+
+.experience {
+  display: flex;
+  flex-direction: column;
+  padding: 0.5rem 0;
+  margin-bottom: 0.5rem;
+}
+
+.role-company {
+  display: flex;
+  justify-content: space-between;
+}
+
+.role {
+  margin-right: 5px;
+}
+
+.work ul {
+  margin: 0.5rem 0 0;
+}
+
+li:not(:last-of-type) {
+  margin-bottom: 5px;
+}

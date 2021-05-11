@@ -1,0 +1,17 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "type": "npm",
+      "script": "build",
+      "path": "resume/",
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "problemMatcher": [],
+      "label": "Build Resume as PDF",
+      "detail": "PORT=8000 NODE_ENV=production yarn micro -l tcp://0.0.0.0:${PORT-8000}"
+    }
+  ]
+}
