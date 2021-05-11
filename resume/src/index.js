@@ -20,18 +20,21 @@ module.exports = async (request, response) => {
       port: parseInt(PORT),
     });
 
+    const localhost = `http://localhost:${PORT}`;
+
     if (isPortReady) {
-      console.log("Opening website!");
+      console.log(`Opening ${localhost}`);
     } else {
       console.log("The port did not open before the timeout...");
     }
 
     const browser = await puppeteer.launch();
     const page = await browser.newPage();
-    await page.goto(`http://localhost:${PORT}`, {
-      waitUntil: "networkidle2",
+    await page.goto(localhost, {
+      waitUntil: "networkidle0",
     });
 
+    console.log("Save to PDF");
     await page.pdf({
       path: path.join(process.cwd(), "build", "rpracutian-resume.pdf"),
       format: "letter",
