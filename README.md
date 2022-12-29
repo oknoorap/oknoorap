@@ -12,8 +12,6 @@ You can drop me a message via twitter - [🐦 @oknoorap](https://twitter.com/okn
 | **Jurassic**<br/>A Straightforward REST API Framework for Deno | https://github.com/oknoorap/jurassic | - | Deno |
 | **Aurum79**<br/>Aurum79 is a JavaScript library that provides a client for connecting to the MetaTrader 5 (MT5) trading platform | https://github.com/oknoorap/aurum79 | - | MQL5, NodeJS, Typescript |
 | **REAML**<br />Reactive Application Markup Language (REAML) is a fast and modern web application framework using Web Components. | https://github.com/reamljs/reaml | Coming soon | Web Components |
-| **TVlix**<br/>Online TV Streaming Watch Party | https://github.com/oknoorap/tvlix | https://tvlix.online | NextJS |
-| **Komento**<br/>Decentralized Comment Hosting Powered by IPFS | https://github.com/oknoorap/komento | https://komento.host | NextJS |
 | **HNChan**<br/>Hacker News in 4chan style | https://github.com/oknoorap/hnchan | https://hnchan.netlify.app | NextJS |
 | **Masa**<br />Time Trading Productivity Tool | https://github.com/oknoorap/masa | Coming Soon | NextJS |
 | **Tree Of Life**<br />Labyrinth RPG Platformer Game | Coming Soon | Coming Soon | Typescript |
