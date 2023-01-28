@@ -1,7 +1,6 @@
 ## Hi 👋 I am Ribhararnus Pracutian
 
-A hobbyist developer. 🦄 Indie maker at the weekend. I'm pixel arts lover ❤️, though I don't have any skill on art.  
-A Cryptocurrency holder and Blockchain enthusiast.
+I'm a hobbyist developer who loves to have fun creating indie projects on the weekends. I'm a big fan of pixel art, even though I don't have any artistic talent. I also love holding and learning about cryptocurrencies and the exciting world of blockchain technology. 🦄🎨❤️💰🤖
 
 You can drop me a message via twitter - [🐦 @oknoorap](https://twitter.com/oknoorap), or via email [✉️ oknoorap&lt;at&gt;gmail.com](mailto:oknoorap@gmail.com)
 
@@ -20,31 +19,33 @@ You can drop me a message via twitter - [🐦 @oknoorap](https://twitter.com/okn
 Coming soon
 
 #### 👨🏽‍💻 Scripting / Programming Language
-- Javascript or TypeScript
-- Ethereum's Solidity
-- Go
-- Lua
-- PHP
+- Javascript or TypeScript (passive skill)
+- ~~Ethereum's Solidity~~ (active skill)
+- ~~Go~~ (active skill)
+- ~~Lua~~ (active skill)
+- ~~PHP~~ (active skill)
 
 #### 📚 My Stacks
 - 🖥 Frontend:
   - VanillaJS
+  - React
+  - Astro
   - NextJS (React)
   - GraphQL
 
 - 𝌖 Backend / Database:
-  - Firebase
+  - Nhost
   - Hasura (PostgreSQL)
+  - Firebase
   - Fastify
   - OrbitDB
 
 - 🟦 DevOps
-  - Docker
-  - K8s
+  - Docker (passive skill)
+  - ~~K8s~~ (active skill)
 
 #### 📺 Entertainments
-- ♘ Playing Chess.
 - 📱 Watch Netflix.
-- 📺 Love seasonal Anime.
+- 📺 Watch Anime.
 - 📚 Read Manga / Manhwa.
 - 📚 Read Novel (sometimes).
