@@ -8,13 +8,12 @@ You can drop me a message via X - [🐦 @oknoorap](https://x.com/oknoorap), or v
 
 | Project Name | Repository URL | Website | Tech / Stack |
 |--|--|--|--|
+| **Faaast Design**<br />The blazing fast template generator. | Private | https://faaast.design | Astro, React, Cloudflare Pages |
 | **Realm**<br />Reactive-Lightweight Markup Language (REALM) HTML framework for building MVPs. | https://github.com/realmorg/realm | https://realm.codes | Typescript, Web Components |
 | **Unicons by Realm**<br />Universal Web Component Icons built with Realm. | https://github.com/realmorg/unicons | https://unicons.realm.codes | HTML |
 | **Jurassic**<br/>A Straightforward REST API Framework for Deno | https://github.com/oknoorap/jurassic | - | Deno |
 | **Aurum79**<br/>Aurum79 is a JavaScript library that provides a client for connecting to the MetaTrader 5 (MT5) trading platform | https://github.com/oknoorap/aurum79 | - | MQL5, NodeJS, Typescript |
 | **HNChan**<br/>Hacker News in 4chan style | https://github.com/oknoorap/hnchan | https://hnchan.netlify.app | NextJS |
-| **Masa**<br />Time Trading Productivity Tool | https://github.com/oknoorap/masa | Coming Soon | NextJS |
-| **Tree Of Life**<br />Labyrinth RPG Platformer Game | Coming Soon | Coming Soon | Typescript |
 
 ### Blog Posts
 Coming soon
