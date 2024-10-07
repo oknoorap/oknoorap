@@ -1,6 +1,6 @@
 ## Hi 👋 I am Ribhararnus Pracutian
 
-On weekends, I enjoy pursuing my passion for indie projects as a hobbyist developer. Despite my lack of artistic ability, I have a keen interest in pixel art. Currently working on the next big thing "frontend framework". 🦄🎨❤️💰🤖
+On weekends, I enjoy pursuing my passion for indie projects as a hobbyist developer. Watch me streaming on Twitch [https://twitch.tv/oknoorap](https://twitch.tv/oknoorap). Despite my lack of artistic ability, I have a keen interest in pixel art. Currently working on the next big thing "frontend framework". 🦄🎨❤️💰🤖
 
 You can drop me a message via X - [🐦 @oknoorap](https://x.com/oknoorap), or via email [✉️ oknoorap&lt;at&gt;gmail.com](mailto:oknoorap@gmail.com)
 
