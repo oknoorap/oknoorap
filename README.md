@@ -9,6 +9,7 @@ You can drop me a message via X - [🐦 @oknoorap](https://x.com/oknoorap), or v
 | Project Name | Repository URL | Website | Tech / Stack |
 |--|--|--|--|
 | **Faaast Design**<br />The blazing fast template generator. | Private | https://faaast.design | Astro, React, Cloudflare Pages |
+| **Play Memoji**<br />The hardest matching game. | https://github.com/oknoorap/memoji | https://playmemoji.netlify.app | Typescript, React |
 | **Realm**<br />Reactive-Lightweight Markup Language (REALM) HTML framework for building MVPs. | https://github.com/realmorg/realm | https://realm.codes | Typescript, Web Components |
 | **Unicons by Realm**<br />Universal Web Component Icons built with Realm. | https://github.com/realmorg/unicons | https://unicons.realm.codes | HTML |
 | **Jurassic**<br/>A Straightforward REST API Framework for Deno | https://github.com/oknoorap/jurassic | - | Deno |
