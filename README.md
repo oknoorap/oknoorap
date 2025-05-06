@@ -1,6 +1,8 @@
 ## Hi 👋 I am Ribhararnus Pracutian
 
-On weekends, I enjoy pursuing my passion for indie projects as a hobbyist developer. Watch me streaming on Twitch [https://twitch.tv/oknoorap](https://twitch.tv/oknoorap). Despite my lack of artistic ability, I have a keen interest in pixel art. Currently working on:
+On weekends, I enjoy pursuing my passion for indie projects as a hobbyist developer.  
+Despite my lack of artistic ability, I have a keen interest in pixel art.  
+I have a lot of small projects as a hobby, but currently working on:
 
 - Faaast Design. Template generator. 💰💰
 - Realm - the next big thing "frontend framework". 🦄
