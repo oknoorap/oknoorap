@@ -4,8 +4,9 @@ On weekends, I enjoy pursuing my passion for indie projects as a hobbyist develo
 Despite my lack of artistic ability, I have a keen interest in pixel art.  
 I have a lot of small projects as a hobby, but currently working on:
 
-- Faaast Design. Template generator. 💰💰
-- Realm - the next big thing "frontend framework". 🦄
+- Working on LAR Chess as a hobby
+- [PROBABLY ABANDONED] Faaast Design. Template generator. 💰💰
+- [MAINTENANCE MODE] Realm - the next big thing "frontend framework". 🦄
 
 You can drop me a message via X - [🐦 @oknoorap](https://x.com/oknoorap), or via email [✉️ oknoorap&lt;at&gt;gmail.com](mailto:oknoorap@gmail.com)
 
