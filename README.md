@@ -14,7 +14,7 @@ You can drop me a message via X - [🐦 @oknoorap](https://x.com/oknoorap), or v
 
 | Project Name | Repository URL | Website | Tech / Stack |
 |--|--|--|--|
-| **Realm**<br />Reactive-Lightweight Markup Language (REALM) HTML framework for building MVPs. | https://github.com/realmorg/realm | https://realmui.github.io | Typescript, Web Components |
+| **Realm**<br />Reactive-Lightweight Markup Language (REALM) HTML framework for building MVPs. | https://github.com/realmui/realm | https://realmui.github.io | Typescript, Web Components |
 | **Faaast Design**<br />The blazing fast template generator. | Private | https://faaast.design | Astro, React, Cloudflare Pages |
 | **Play Memoji**<br />The hardest matching game. | https://github.com/oknoorap/memoji | https://playmemoji.netlify.app | Typescript, React |
 | **Unicons by Realm**<br />Universal Web Component Icons built with Realm. | https://github.com/realmorg/unicons | https://unicons.realm.codes | HTML |
