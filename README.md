@@ -14,9 +14,9 @@ You can drop me a message via X - [🐦 @oknoorap](https://x.com/oknoorap), or v
 
 | Project Name | Repository URL | Website | Tech / Stack |
 |--|--|--|--|
+| **Realm**<br />Reactive-Lightweight Markup Language (REALM) HTML framework for building MVPs. | https://github.com/realmorg/realm | https://realmui.github.io | Typescript, Web Components |
 | **Faaast Design**<br />The blazing fast template generator. | Private | https://faaast.design | Astro, React, Cloudflare Pages |
 | **Play Memoji**<br />The hardest matching game. | https://github.com/oknoorap/memoji | https://playmemoji.netlify.app | Typescript, React |
-| **Realm**<br />Reactive-Lightweight Markup Language (REALM) HTML framework for building MVPs. | https://github.com/realmorg/realm | https://realm.codes | Typescript, Web Components |
 | **Unicons by Realm**<br />Universal Web Component Icons built with Realm. | https://github.com/realmorg/unicons | https://unicons.realm.codes | HTML |
 | **Jurassic**<br/>A Straightforward REST API Framework for Deno | https://github.com/oknoorap/jurassic | - | Deno |
 | **Aurum79**<br/>Aurum79 is a JavaScript library that provides a client for connecting to the MetaTrader 5 (MT5) trading platform | https://github.com/oknoorap/aurum79 | - | MQL5, NodeJS, Typescript |
