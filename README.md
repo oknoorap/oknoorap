@@ -4,7 +4,7 @@ On weekends, I enjoy pursuing my passion for indie projects as a hobbyist develo
 Despite my lack of artistic ability, I have a keen interest in pixel art.  
 I have a lot of small projects as a hobby, but currently working on:
 
-_ Working on NovelOS (98%)
+- Working on NovelOS (98%)
 - Working on Modern Site Builder (60%)
 - Working on LAR Chess as a hobby (on hold)
 - [PROBABLY ABANDONED] Faaast Design. Template generator. 💰💰 (BRING THE IDEAS TO POINT NO. 2)
