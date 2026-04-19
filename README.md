@@ -4,10 +4,11 @@ On weekends, I enjoy pursuing my passion for indie projects as a hobbyist develo
 Despite my lack of artistic ability, I have a keen interest in pixel art.  
 I have a lot of small projects as a hobby, but currently working on:
 
-- <img src="https://www.google.com/s2/favicons?domain=novelos.studio" alt="NovelOS Studio" />[NovelOS Studio](https://novelos.studio) - Writing app for novelist
-- Webgrid Studio - Modern Site Builder (60%)
-- Working on LAR Chess as a hobby (on hold)
-- <img src="https://realmui.github.io/favicons/favicon.ico" alt="Realm" width="16" height="16" /> [Realm](https://realmui.github.io) - the next big thing "frontend framework". 🦄 [MAINTENANCE MODE]
+* <picture><img src="https://www.google.com/s2/favicons?domain=novelos.studio" alt="NovelOS Studio" /></picture> [NovelOS Studio](https://novelos.studio) - Writing app for novelist  
+* <picture><img src="https://www.google.com/s2/favicons?domain=buatweb.site" alt="Local Business Webdesign Agency" /></picture> [BuatWeb.site](https://buatweb.site) - Local Business (Indonesian UMKM) Webdesign Agency  
+* Webgrid Studio - Modern Site Builder (60%)  
+* Working on LAR Chess as a hobby (on hold)  
+* <picture><img src="https://realmui.github.io/favicons/favicon.ico" alt="Realm" width="16" height="16" /></picture> [Realm](https://realmui.github.io) web components framework. 🦄 [MAINTENANCE MODE]
 
 You can drop me a message via X - [🐦 @oknoorap](https://x.com/oknoorap), or via email [✉️ oknoorap&lt;at&gt;gmail.com](mailto:oknoorap@gmail.com)
 
@@ -15,8 +16,8 @@ You can drop me a message via X - [🐦 @oknoorap](https://x.com/oknoorap), or v
 
 | Project Name | Repository URL | Website | Tech / Stack |
 |--|--|--|--|
-| <img src="https://www.google.com/s2/favicons?domain=novelos.studio" alt="NovelOS Studio" /> **NovelOS** | https://github.com/novelos-studio | https://novelos.studio | Tauri, Typescript |
-| <img src="https://realmui.github.io/favicons/favicon.ico" alt="Realm" width="16" height="16" /> **Realm**<br />Reactive-Lightweight Markup Language (REALM) HTML framework for building MVPs. | https://github.com/realmui/realm | https://realmui.github.io | Typescript, Web Components |
+| <picture><img src="https://www.google.com/s2/favicons?domain=novelos.studio" alt="NovelOS Studio" /></picture> **NovelOS** | https://github.com/novelos-studio | https://novelos.studio | Tauri, Typescript |
+| <picture><img src="https://realmui.github.io/favicons/favicon.ico" alt="Realm" width="16" height="16" /></picture> **Realm**<br />Reactive-Lightweight Markup Language (REALM) HTML framework for building MVPs. | https://github.com/realmui/realm | https://realmui.github.io | Typescript, Web Components |
 | <img src="https://hnchan.netlify.app/favicons/favicon-16x16.png" alt="HNChan" /> **HNChan**<br/>Hacker News in 4chan style | https://github.com/oknoorap/hnchan | https://hnchan.netlify.app | NextJS |
 | **TXTodo** - Simple todo list | https://github.com/oknoorap/txtodo | https://txtodo.netlify.app | React |
 | **Storeflow**<br />A small, zero-boilerplate, and highly reactive state management library built on native React hooks. | https://github.com/oknoorap/storeflow | https://storeflow-example.netlify.app | Typescript |
