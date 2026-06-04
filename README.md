@@ -4,6 +4,7 @@ On weekends, I enjoy pursuing my passion for indie projects as a hobbyist develo
 Despite my lack of artistic ability, I have a keen interest in pixel art.  
 I have a lot of small projects as a hobby, but currently working on:
 
+* Currently Build My 2D React Game Engine (WIP, collecting 100+ examples), Yay <picture><img src="https://i.pinimg.com/originals/43/51/13/435113fe44d541a80851fd7c044c8801.gif" width="25" height="25" /></picture> finally my dream come true!
 * <picture><img src="https://www.google.com/s2/favicons?domain=novelos.studio" alt="NovelOS Studio" /></picture> [NovelOS Studio](https://novelos.studio) - Writing app for novelist  
 * <picture><img src="https://www.google.com/s2/favicons?domain=buatweb.site" alt="Local Business Webdesign Agency" /></picture> [BuatWeb.site](https://buatweb.site) - Local Business (Indonesian UMKM) Webdesign Agency  
 * Webgrid Studio - Modern Site Builder (60%)  
@@ -16,6 +17,7 @@ You can drop me a message via X - [🐦 @oknoorap](https://x.com/oknoorap), or v
 
 | Project Name | Repository URL | Website | Tech / Stack |
 |--|--|--|--|
+| React Game Engine (WIP) | - | [secret] | React (reconciler), Kaplay, Typescript |
 | <picture><img src="https://www.google.com/s2/favicons?domain=novelos.studio" alt="NovelOS Studio" /></picture> **NovelOS** | https://github.com/novelos-studio | https://novelos.studio | Tauri, Typescript |
 | <picture><img src="https://realmui.github.io/favicons/favicon.ico" alt="Realm" width="16" height="16" /></picture> **Realm**<br />Reactive-Lightweight Markup Language (REALM) HTML framework for building MVPs. | https://github.com/realmui/realm | https://realmui.github.io | Typescript, Web Components |
 | <img src="https://hnchan.netlify.app/favicons/favicon-16x16.png" alt="HNChan" /> **HNChan**<br/>Hacker News in 4chan style | https://github.com/oknoorap/hnchan | https://hnchan.netlify.app | NextJS |
