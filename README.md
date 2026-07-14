@@ -19,11 +19,11 @@ You can drop me a message via X - [🐦 @oknoorap](https://x.com/oknoorap), or v
 | Project Name | Repository URL | Website | Tech / Stack |
 |--|--|--|--|
 | React Game Engine (WIP) | - | [secret] | React (reconciler), Kaplay, Typescript |
-| <picture><img src="https://www.google.com/s2/favicons?domain=novelos.studio" alt="NovelOS Studio" /></picture> **NovelOS** | https://github.com/novelos-studio | https://novelos.studio | Tauri, Typescript |
+| <picture><img src="https://www.google.com/s2/favicons?domain=novelos.studio" alt="NovelOS Studio" /></picture> **NovelOS**<br />The OS for Storytellers<br />Writing app for novelist | https://github.com/novelos-studio | https://novelos.studio | Tauri, Typescript |
 | <picture><img src="https://realmui.github.io/favicons/favicon.ico" alt="Realm" width="16" height="16" /></picture> **Realm**<br />Reactive-Lightweight Markup Language (REALM) HTML framework for building MVPs. | https://github.com/realmui/realm | https://realmui.github.io | Typescript, Web Components |
 | <picture><img src="https://hnchan.netlify.app/favicons/favicon-16x16.png" alt="HNChan" width="16" height="16" /></picture> **HNChan**<br/>Hacker News in 4chan style | https://github.com/oknoorap/hnchan | https://hnchan.netlify.app | NextJS |
-| <picture><img src="https://usefitpulse.netlify.app/icons/favicon-64.png" alt="HNChan" width="16" height="16" /></picture> **FitPulse** - Simple workout tracker | - | https://usefitpulse.netlify.app/ | HTML / PWA |
-| **TXTodo** - Simple todo list | https://github.com/oknoorap/txtodo | https://txtodo.netlify.app | React |
+| <picture><img src="https://usefitpulse.netlify.app/icons/favicon-64.png" alt="HNChan" width="16" height="16" /></picture> **FitPulse**<br />Simple workout tracker | - | https://usefitpulse.netlify.app/ | HTML / PWA |
+| **TXTodo**<br />Simple todo list | https://github.com/oknoorap/txtodo | https://txtodo.netlify.app | React |
 | **Storeflow**<br />A small, zero-boilerplate, and highly reactive state management library built on native React hooks. | https://github.com/oknoorap/storeflow | https://storeflow-example.netlify.app | Typescript |
 | **Play Memoji**<br />The hardest matching game. | https://github.com/oknoorap/memoji | https://playmemoji.netlify.app | Typescript, React |
 | **Unicons by Realm**<br />Universal Web Component Icons built with Realm. | https://github.com/realmorg/unicons | https://unicons.realm.codes | HTML |
