@@ -2,24 +2,27 @@
 
 On weekends, I enjoy pursuing my passion for indie projects as a hobbyist developer.  
 Despite my lack of artistic ability, I have a keen interest in pixel art.  
-I have a lot of small projects as a hobby, but currently working on:
-
-* Currently building an NFT Game (Solana)
-* Building My 2D React Game Engine (WIP, collecting 100+ examples), Yay <picture><img src="https://i.pinimg.com/originals/43/51/13/435113fe44d541a80851fd7c044c8801.gif" width="16" height="16" /></picture> finally my dream come true!
-* <picture><img src="https://www.google.com/s2/favicons?domain=novelos.studio" alt="NovelOS Studio" /></picture> [NovelOS Studio](https://novelos.studio) - Writing app for novelist  
-* <picture><img src="https://realm.js.org/favicons/favicon-32x32.png" alt="Realm" width="16" height="16" /></picture> [Realm](https://realm.js.org) web components framework  
-* <picture><img src="https://www.google.com/s2/favicons?domain=buatweb.site" alt="Local Business Webdesign Agency" /></picture> [BuatWeb.site](https://buatweb.site) - Local Business (Indonesian UMKM) Webdesign Agency  
-* Webgrid Studio - Modern Site Builder (60%)  
-* Working on LAR Chess as a hobby (on hold)  
-
 
 You can drop me a message via X - [🐦 @oknoorap](https://x.com/oknoorap), or via email [✉️ oknoorap&lt;at&gt;gmail.com](mailto:oknoorap@gmail.com)
+
+Live:
+* <picture><img src="https://www.google.com/s2/favicons?domain=novelos.studio" alt="NovelOS Studio" /></picture> [NovelOS Studio](https://novelos.studio) - Writing app for novelist  
+* <picture><img src="https://realm.js.org/favicons/favicon-32x32.png" alt="Realm" width="16" height="16" /></picture> [Realm](https://realm.js.org) web components framework  
+
+In Progress:
+* NFT Card Game (Solana)
+* ToyKit 2D Game Engine
+* Fantasy Chess Game
+
+Failed:
+* <picture><img src="https://www.google.com/s2/favicons?domain=buatweb.site" alt="Local Business Webdesign Agency" /></picture> [BuatWeb.site](https://buatweb.site) - Local Business (Indonesian UMKM) Webdesign Agency  
+* Webgrid Studio - Modern Site Builder (60%)  
 
 ### Portfolio / Projects
 
 | Project Name | Repository URL | Website | Tech / Stack |
 |--|--|--|--|
-| React Game Engine (WIP) | - | [secret] | React (reconciler), Kaplay, Typescript |
+| 2D Game Engine (WIP) | - | [secret] | Realm + Kaplay |
 | <picture><img src="https://www.google.com/s2/favicons?domain=novelos.studio" alt="NovelOS Studio" /></picture> **NovelOS**<br />The OS for Storytellers<br />Writing app for novelist | https://github.com/novelos-studio | https://novelos.studio | Tauri, Typescript |
 | <picture><img src="https://realm.js.org/favicons/favicon-32x32.png" alt="Realm" width="16" height="16" /></picture> **Realm**<br />Reactive-Lightweight Markup Language (REALM) HTML framework for building MVPs. | https://github.com/realmorg/realm | https://realm.js.org | Typescript, Web Components |
 | <picture><img src="https://hnchan.netlify.app/favicons/favicon-16x16.png" alt="HNChan" width="16" height="16" /></picture> **HNChan**<br/>Hacker News in 4chan style | https://github.com/oknoorap/hnchan | https://hnchan.netlify.app | NextJS |
