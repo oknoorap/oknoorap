@@ -1,7 +1,7 @@
 ## Hi 👋 I am Ribhararnus Pracutian
 
-On weekends, I enjoy pursuing my passion for indie projects as a hobbyist developer.  
-Despite my lack of artistic ability, I have a keen interest in pixel art.  
+On weekends, I love working on indie projects as a hobbyist developer.  
+Even though I'm not much of an artist, I have a huge soft spot for pixel art.
 
 You can drop me a message via X - [🐦 @oknoorap](https://x.com/oknoorap), or via email [✉️ oknoorap&lt;at&gt;gmail.com](mailto:oknoorap@gmail.com)
 
